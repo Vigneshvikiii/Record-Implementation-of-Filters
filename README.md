@@ -160,4 +160,4 @@ plt.show()
 <img width="456" height="410" alt="image" src="https://github.com/user-attachments/assets/80f605fd-5336-43ed-93d4-cba2b1cc0f62" />
 
 ## Result:
-Thus the filters are designed for smoothing and sharpening the
+Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
